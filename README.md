@@ -1,0 +1,2 @@
+# ZAR-Coin
+AI
